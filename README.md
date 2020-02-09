@@ -1,4 +1,4 @@
-# Oscar_Best_Picture_Nomination-
+# Oscar_Best_Picture_Nomination
 Predicting the best picture nominations at the Oscars
 
 Summary Report - “And, the Nominations are…”
